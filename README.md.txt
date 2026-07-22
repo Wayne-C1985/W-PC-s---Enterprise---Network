@@ -44,6 +44,7 @@ The project is being built using **Cisco Packet Tracer** and will continue to ev
 |---------|------------|
 | Router (Default Gateway) | 192.168.10.1 |
 | Server | 192.168.10.10 |
+| Printer | 192.168.10.20 |
 | Desktop PCs | 192.168.10.101 - 192.168.10.105 |
 | Laptop | DHCP |
 
